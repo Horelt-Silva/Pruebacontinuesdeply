@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'aplicaionyorelt'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0335a588a08946d39d5c87441ff2d394 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ca4175d536154221acbe6179a471db7c }}
         package: .
